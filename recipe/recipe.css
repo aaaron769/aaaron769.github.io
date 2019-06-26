@@ -1,12 +1,13 @@
 body{
-    background-color: #F0F0F0;
+    background-color: white;
     color:#404040;
     font-size: 11pt;
     font-family: Georgia,Garamond,serif;
 }
+
 h1{
     color: #A4A400;
-    background-color: #F0F0F0;
+    background-color:rgb(247, 245, 242);
     font-family:'Lucida Sans Unicode',Helvetica,Arial,sans-serif;
     text-align: left;
     font-size:18pt;
@@ -22,3 +23,8 @@ h1{
 link{
     color:#A4A400
 }
+#CopyrightMonoSpace{
+    font-family:monospace; 
+}
+
+
