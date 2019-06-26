@@ -1,0 +1,28 @@
+body{
+    background-color:#484848; 
+    color:white;   
+}
+ul,ol{
+    color:white;
+}
+strong{
+    color: yellow;
+}
+h1{
+    color: rgb(77, 77, 224);
+}
+a:link{
+    color: red; 
+    text-decoration: none;
+    
+}
+a:hover{
+    color: burlywood;
+}
+p::first-letter{
+   font-size: 1.5em;
+
+}
+dt{
+    color: yellow;
+}
