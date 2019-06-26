@@ -1,5 +1,6 @@
 body{
     background-color: white;
+    background-image: url("images/silverware.jpg");
     color:#404040;
     font-size: 11pt;
     font-family: Georgia,Garamond,serif;
@@ -26,5 +27,14 @@ link{
 #CopyrightMonoSpace{
     font-family:monospace; 
 }
+ul{
+    list-style-image: url(images/pie_icon.gif);
+
+}
+.colorComment{
+    background-color:#FFFFA8;
+    font-style: italic;
+}
+
 
 
