@@ -36,7 +36,7 @@ ul{
     font-style: italic;
 }
 #makeAlignRight{
-    text-align: right;
+    align-content: right;
 }
 
 
