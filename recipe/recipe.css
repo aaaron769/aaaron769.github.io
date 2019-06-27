@@ -1,3 +1,6 @@
+<!-- /* Name  Aaron Gezai Id -109660
+a recipe web site for a fictional pie company named Granny's Pies  The CSS Part*/ -->
+/* This will style the body Part */
 body{
     background-color: white;
     background-image: url("images/silverware.jpg");
@@ -5,7 +8,7 @@ body{
     font-size: 11pt;
     font-family: Georgia,Garamond,serif;
 }
-
+/* this will style the h1 Part */
 h1{
     color: #A4A400;
     background-color:rgb(247, 245, 242);
@@ -16,25 +19,31 @@ h1{
     text-decoration: underline;
     
 }
+/* this will style the head part of the page particularly */
 #mainHead{
     text-align: center;
     font-size: 22pt;
     font-weight:bold;
 }
+/* this will style the link color */
 link{
     color:#A4A400
 }
+/* this will give the monnospace of the copyright part */
 #CopyrightMonoSpace{
     font-family:monospace; 
 }
+/* this will style the image of unorderd list */
 ul{
     list-style-image: url(images/pie_icon.gif);
 
 }
+/* this will color all the comment part of the page and its font to italic */
 .colorComment{
     background-color:#FFFFA8;
     font-style: italic;
 }
+/* this will align  to the right the validation part and the copyright */
 #makeAlignRight{
     text-align: right;
 }
