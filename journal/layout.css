@@ -7,13 +7,14 @@ html{
 /* I am making border for the entire body and color border */
 body{
     
-    border:15px solid;
-    border-color:#009900; /* Green */
+    border:10px solid white;
+    /* border-color:#009900;  */
     background-color: white;
 }
 /* border for victoia's.. and so fresh... headings */
-#victoriaAndSo{    
-    border: red 6px solid;
+#victoriaAndSo{ 
+    background-color:#A8F0F0;   
+    border:none;
     text-align: right;
     padding: none;
     /* float:right; */
@@ -22,20 +23,40 @@ body{
 float:right;
 }
 
+#friendsDiv{
+    border: 5px solid #209697;
+    background-color: rgb(117, 211, 211);
+    width: 16%;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 15px;
+    margin-bottom: 300px;
+    align-content: left;
+
+    
+}
+
 /* border for the grandChild of victoria.. and so fresh.. */
 #victoriaAndSo h2{
-    border:orange 6px solid;
+    border:none;
+    font-size: 14pt;
 }
 /* borderFor Spatulas and cookie Monster */
 .spatulasAndCookie{
-    border : blue 6px solid  ;
+    border :#C2E9E9 4px solid  ;
     background-color: #E8FBFB;
     margin-top: 10px;
     padding: 5px;
     overflow: auto;
+    border-radius: 15px;
 }
+/* #overFlowAuto{
+    clear: right;
+} */
 .theDate{
-    border:purple 6px solid  ;
+    border-bottom:blue 2px dashed  ;
+
 }
 
 
