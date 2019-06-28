@@ -1,15 +1,27 @@
+html{
+    background-image:url("http://mumstudents.org/cs472/2019-07-RS/Labs/2/background.gif") ;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 /* I am making border for the entire body and color border */
 body{
     
     border:15px solid;
     border-color:#009900; /* Green */
-   
+    background-color: white;
 }
 /* border for victoia's.. and so fresh... headings */
 #victoriaAndSo{    
     border: red 6px solid;
-    
+    text-align: right;
+    padding: none;
+    /* float:right; */
 }
+.imageFloat{
+float:right;
+}
+
 /* border for the grandChild of victoria.. and so fresh.. */
 #victoriaAndSo h2{
     border:orange 6px solid;
@@ -17,6 +29,10 @@ body{
 /* borderFor Spatulas and cookie Monster */
 .spatulasAndCookie{
     border : blue 6px solid  ;
+    background-color: #E8FBFB;
+    margin-top: 10px;
+    padding: 5px;
+    overflow: auto;
 }
 .theDate{
     border:purple 6px solid  ;
