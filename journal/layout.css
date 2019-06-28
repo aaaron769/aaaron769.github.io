@@ -21,5 +21,7 @@ body{
 .theDate{
     border:purple 6px solid  ;
 }
-
+#paddingImage{
+    margin: 65px;
+}
 
