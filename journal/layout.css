@@ -3,6 +3,7 @@ html{
     background-image:url("http://mumstudents.org/cs472/2019-07-RS/Labs/2/background.gif") ;
     margin-left: 10%;
     margin-right: 10%;
+    
 }
 
 /* I am making border for the entire body and color border */
@@ -27,6 +28,7 @@ float:right;
 #friendsDiv{
     border: 5px solid #209697;
     background-color: rgb(117, 211, 211);
+    /* color: #209697; */
     width: 16%;
     float: left;
     margin: 10px;
