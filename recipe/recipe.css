@@ -7,6 +7,7 @@ body{
     color:#404040;
     font-size: 11pt;
     font-family: Georgia,Garamond,serif;
+  
 }
 /* this will style the h1 Part */
 h1{
@@ -18,23 +19,27 @@ h1{
     font-style:normal;
     text-decoration: underline;
     
+    
 }
 /* this will style the head part of the page particularly */
 #mainHead{
     text-align: center;
     font-size: 22pt;
-    font-weight:bold;
+    font-weight:bold;    
 }
 /* this will style the link color */
 link{
     color:#A4A400
+    
+
 }
 /* this will give the monnospace of the copyright part */
 #CopyrightMonoSpace{
-    font-family:monospace; 
+    font-family:monospace;     
 }
 /* this will style the image of unorderd list */
-ul{
+ul{   
+    
     list-style-image: url(images/pie_icon.gif);
 
 }
