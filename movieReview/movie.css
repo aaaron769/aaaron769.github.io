@@ -1,39 +1,45 @@
+/* Aaron Gezai std-Id #1096660 
+This css file called movie.css, the style of the tmnt.html
+which is a review of the movie by rate and qoutes 
+of a reviwer and his/her name */
+
+/* the body part is styling here */
 body{
     background: url("images/background.png");
     font-size: 8pt; 
-    font-family: Verdana, Tahoma, sans-serif  ;
+    font-family: Verdana Tahoma sans-serif  ;
     margin: none;
     padding: none;
    
 }
-#theBanner{    
-    /* box-align: center; todo...*/
+/*  header of the page contains the image */
+#theBanner{      
     background: url("images/bannerbg.png");
     background-repeat:repeat-x; 
 }
-/* todo later theHeader */
-#theHeader{
-       
+/* the header text  */
+#theHeader{       
     font-size: 24pt;
     font-weight: bold;
-    font-family: Verdana, Tahoma, sans-serif  ;
-    text-shadow:3px,3px,#999999;
-   
-  
+    font-family: Verdana Tahoma sans-serif  ;
+    text-shadow:3px 3px #999999;  
+    text-align: center;
+}
+/* the footer  */
+#footer{
+    text-align:center; 
   
 }
+/* align to the center the content */
 #alignCenter{
-    /* todo */
-   /* align-content: center;
-   justify-content:  center; */
+  
    margin-left: 20%;
    margin-right: 20%;
 
 }
+/* the content cotains two parts, the qoute
+ review and image */
 #overall_content_area{
-    
-/* width: 50%; */
-/* align-content: center; */
 border:4px gray solid;
 border-radius: 20px;
 overflow: auto;
@@ -41,40 +47,38 @@ column-gap: 2em;
 
 
 }
-
+/* this single rate number 33% */
+#rate{
+    font-size:48pt;
+    color: red;  
+    font-weight: bold; 
+ }
+/* the background of the rate 33% */
 #ImageRate {
  background:url("images/rbg.png") ;
  background-repeat:repeat-x;
- 
- /* height: 33px; */
 }
-#rate{
-   font-size:48pt;
-   color: red;  
-   font-weight: bold; 
-}
+/* float the review and image to right */
 #theReview{
 float: right;
-
  
 }
+/* the background of the review */
 #theReview dl{
     background-color:#A2B964;
     width: 250px;
 }
-/* multicolomuns */
+/* multicolomuns crtic_reviews contains two column */
 #critics_reviews{
     column-count: 2;
     column-gap: 2em;
-    width: 600px;
+    width: 600px;     
 }
-
 /* critics_reviews right side */
 #critics_reviews_2{
-    float: right;
-   
-    
+    float: right;    
 }
+/* the quotes from the person */
 .quotes{
     font-size: 8pt;
     font-weight: bold;
@@ -82,9 +86,18 @@ float: right;
     border-color: gray;
     border-radius: 10px;
     border-width: 2px;
-    column-gap:8px; 
-     
-   
+    column-gap:8px;  
 
 }
+/* the revew person image seprate 5px right to text */
+.reviewPerson img{
+    margin-right: 5px;
+   
+}
+/* the validators part */
+#thevalidators_div{
+   text-align: right;
+}
+
+
 
