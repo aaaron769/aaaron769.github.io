@@ -1,23 +1,20 @@
 <!DOCTYPE html>
 <html lang="en-US" class="gr__mumstudents_org">
-
+<!-- the headerpart -->
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title> ASCII Animation Viewerb</title>
-
-
+    <!-- the meta view port -->
     <meta name="mat/viewport" content="width=device-width, initial-scale=1.0">
     <link href="mat/ascii.css" type="text/css" rel="stylesheet">
     <script src="mat/animations.js"></script>
     <script src="mat/ascii.js"></script>
-
 </head>
-
-<body data-gr-c-s-loaded="true">
-   
+<!-- the body part -->
+<body data-gr-c-s-loaded="true">   
     <h1>  ASCII Animation Viewer</h1>
     <textarea id="stage" rows="20" cols="80"></textarea>
-    <div class="controls">
+    <div class="controls">     <!-- the controllers part -->
         <fieldset>
             <legend>Play Controls:</legend>
             <button id="btnStart" onclick="clickStart()">Start</button>
@@ -50,9 +47,7 @@
             <input type="checkbox" id="turbo" onchange="turbo()"> Turbo
         </fieldset>
     </div>
-
-
-
+<!-- the validators part -->
     <a href="http://validator.w3.org/check/referer">
         <img src="http://mumstudents.org/cs472/2014-09/images/w3c-html.png" alt="html validator" />
     </a>
@@ -63,5 +58,4 @@
         <img src="https://webster.cs.washington.edu/w3c-js.png" alt="Valid JS" />
     </a>
 </body>
-
 </html>

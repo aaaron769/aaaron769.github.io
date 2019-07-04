@@ -1,6 +1,5 @@
 window.onload = onLoadCalled;
 
-
 function btnIpay() {
     document.getElementById("btnIgpay").onclick = btnIgpayOnClicked;
 
