@@ -46,4 +46,8 @@ body{
 #field{
     width: 370px;
 }
+input[type=text]{
+    color: aquamarine;
+    background: blue;
+}
 
