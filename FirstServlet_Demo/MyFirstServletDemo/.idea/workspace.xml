@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8250d9c8-1334-481c-8986-956dcd433368" name="Default Changelist" comment="" />
+    <list default="true" id="8250d9c8-1334-481c-8986-956dcd433368" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Lab 11 - Servlet intro_19_7 _ServletIntro/IntroServlet/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab 11 - Servlet intro_19_7 _ServletIntro/IntroServlet/web/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
