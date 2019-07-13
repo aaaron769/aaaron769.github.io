@@ -6,45 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8250d9c8-1334-481c-8986-956dcd433368" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MyFirstServletDemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SecondHelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/.idea/artifacts/custom_tag_demo_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/.idea/artifacts/custom_tag_demo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/.idea/libraries/Maven__javax_el_javax_el_api_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../custom-tag-demo/custom-tag-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demoFilterJsp/.idea/demoFilterJsp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demoFilterJsp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demoFilterJsp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demoFilterJsp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demoFilterJsp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../IntroServlet/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab 11 - Servlet intro_19_7 _ServletIntro/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gson-crud/.idea/artifacts/gson_crud_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gson-crud/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gson-crud/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gson-crud/.idea/libraries/Maven__javax_el_javax_el_api_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gson-crud/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gson-crud/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gson-crud/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gson-crud/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gson-crud/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gson-crud/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gson-crud/gson-crud.iml" afterDir="false" />
-    </list>
+    <list default="true" id="8250d9c8-1334-481c-8986-956dcd433368" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -691,12 +653,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562741355543</updated>
-      <workItem from="1562741359009" duration="11606000" />
+      <workItem from="1562741359009" duration="12229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11606000" />
+    <option name="totallyTimeSpent" value="12229000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -717,7 +679,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" sideWeight="0.5021097" side_tool="true" weight="0.12281879" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.21140939" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.21140939" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
@@ -729,7 +691,7 @@
       <window_info anchor="bottom" id="Version Control" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

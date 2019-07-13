@@ -6,53 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa0b3fed-ec48-4f53-bc79-3707db99ed44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/MyFirstServletDemo/.idea/artifacts/MyFirstServletDemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/MyFirstServletDemo/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/MyFirstServletDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/MyFirstServletDemo/src/main/java/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/MyFirstServletDemo/src/main/java/SecondHelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/MyFirstServletDemo/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/artifacts/custom_tag_demo_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/artifacts/custom_tag_demo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/libraries/Maven__javax_el_javax_el_api_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/custom-tag-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/demoFilterJsp/.idea/demoFilterJsp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/demoFilterJsp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/demoFilterJsp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/demoFilterJsp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstServlet_Demo/demoFilterJsp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/IntroServlet_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroServlet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab 11 - Servlet intro_19_7 _ServletIntro/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gson-crud/.idea/artifacts/gson_crud_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gson-crud/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gson-crud/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gson-crud/.idea/libraries/Maven__javax_el_javax_el_api_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gson-crud/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gson-crud/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gson-crud/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gson-crud/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gson-crud/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gson-crud/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gson-crud/gson-crud.iml" afterDir="false" />
-    </list>
+    <list default="true" id="aa0b3fed-ec48-4f53-bc79-3707db99ed44" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,20 +20,20 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+            <state>
+              <caret selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MyServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
+            <state relative-caret-position="424">
               <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -116,7 +70,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -154,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -161,24 +116,6 @@
             <path>
               <item name="IntroServlet" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroServlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroServlet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroServlet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroServlet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroServlet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroServlet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroServlet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroServlet" type="b2602c69:ProjectViewProjectNode" />
@@ -195,7 +132,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -306,14 +242,16 @@
       <option name="presentableId" value="Default" />
       <updated>1562969685244</updated>
       <workItem from="1562969688875" duration="4554000" />
+      <workItem from="1562979614140" duration="761000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4554000" />
+    <option name="totallyTimeSpent" value="5315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -321,7 +259,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.18993288" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.19261745" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -338,7 +276,6 @@
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3295302" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -348,6 +285,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,10 +295,20 @@
     <SUITE FILE_PATH="coverage/IntroServlet$Tomcat_8_5_422.ic" NAME="Tomcat 8.5.422 Coverage Results" MODIFIED="1562972290718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        <state relative-caret-position="252">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -371,20 +319,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MyServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret selection-end-line="17" />
         </state>
       </provider>
     </entry>
