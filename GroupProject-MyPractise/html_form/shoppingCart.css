@@ -1,0 +1,53 @@
+/* Aaorn Gezai id:- 109660
+This css file, styles the shoppingCart html file. provides 
+border and alignments and colors  */
+body{
+    background-color: rgb(129, 149, 168);
+}
+/* the header part */
+#theHeader{ 
+    text-align: center;
+    font-size: 11pt;
+    color: rgb(215, 228, 40);
+    font-weight: bold;
+    font-family: Verdana Tahoma sans-serif  ;
+    text-shadow:3px 3px #999999;  
+    text-align: center;
+    border: 8px solid rgb(193, 197, 181);
+    border-radius:23px;
+    background: url("rbg.png");
+}
+/* the Entire form  */
+#theEntireForm{
+    background: url("background.png");
+    margin-top: 12%;
+    margin-left: 12%;
+    margin-right: 12%;
+    border: 12px gray solid;
+    border-radius:23px;
+}
+/* part of the form which has two columns */
+#content{
+    column-count :2;   
+}
+/* all block's border and alignments */
+.block_border{
+    padding: 12px;
+    margin: 10px;
+    border: 1px solid olive;    
+}
+
+/* the sytle of all input in the blocks */
+.block_border input{   
+    border: 1px solid #ccc;
+    border-radius: 4px;       
+}
+/* the fieldset style */
+#field{
+    width: 370px;
+}
+#moreInfo{
+align-content:right;
+}
+
+

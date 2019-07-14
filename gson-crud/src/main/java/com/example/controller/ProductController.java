@@ -44,7 +44,6 @@ public class ProductController extends HttpServlet {
         RequestDispatcher view = request.getRequestDispatcher("product.jsp"); // forwarding to product.jsp our binded data
         view.forward(request, response);// forwarded request and response
     }
-
     /**
      * @param request the response
      * @param response
