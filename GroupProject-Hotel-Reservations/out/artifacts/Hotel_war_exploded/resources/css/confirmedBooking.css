@@ -1,0 +1,6 @@
+#confirmation{
+    background-image: url("confirmed.png");
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+}

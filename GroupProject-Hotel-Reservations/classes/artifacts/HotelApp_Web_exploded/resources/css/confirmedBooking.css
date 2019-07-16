@@ -1,0 +1,21 @@
+body{
+    background-image: url("background.png");
+}
+#confirmation{
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+}
+#contactInfo,#namOfGuest{
+color:red;
+}
+#ourEmail{
+    color :green;
+}
+
+#To_Home_Page{
+    font-size: 30px;
+    float:right;
+
+
+}

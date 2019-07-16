@@ -1,0 +1,214 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
+    background-color: #ebecf0;
+    /*background-image: url("../../resources/images/pool.png");*/
+}
+
+/* Style the navigation bar */
+.navbar {
+    width: 100%;
+    overflow: auto;
+}
+
+/* Navbar links */
+.navbar a {
+    float: left;
+    padding: 12px;
+    color: #001959;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar {
+    height: 60px;
+    background-color: white;
+    border: 1px solid lightgray;
+}
+
+.login {
+    position: absolute;
+    right: 10;
+    top: 10;
+}
+
+/* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
+@media screen and (max-width: 700px) {
+    .navbar a {
+        float: none;
+        display: block;
+    }
+
+    .left {
+        width: 100% !important;
+        padding-bottom: 10px;
+    }
+
+    .right {
+        width: 100% !important;
+    }
+
+}
+
+#container {
+    padding: 1%;
+    margin: 1%;
+    display: inline-block;
+}
+
+.column {
+    float: left;
+    clear: right;
+}
+
+.left {
+    width: 75%;
+}
+
+.right {
+    width: 25%;
+    /*text-align: center;*/
+}
+
+button {
+    font-size: 20px;
+    background-color: #005aeb;
+    color: #FFFFFF;
+    padding: 14px 35px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005a9E;
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+}
+
+.left img {
+    width: 95%;
+}
+
+.right button {
+    width: 95%;
+}
+
+#roomRate {
+    padding: 1%;
+    margin: 1%;
+}
+
+.roomInfo {
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    overflow: auto;
+}
+
+.roomInfo img {
+    width: 30%;
+    float: left;
+    overflow: auto;
+}
+
+.roomFeature {
+    display: inline;
+}
+
+.roomPrice {
+    float: right;
+    padding-right: 20px;
+    font-style: oblique;
+    font-size: 20pt;
+}
+
+.roomRateDetail {
+    padding-left: 32%;
+    padding-top: 20px;
+}
+
+#footer {
+    text-align: center;
+}
+
+/* Login Form Styling */
+.loginPageBody {
+    background-image: url("../../resources/images/pool.png");
+    background-size: cover;
+}
+
+.blueButton {
+    font-size: 18px;
+    background-color: #005aeb;
+    color: #FFFFFF;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+}
+
+.loginForm {
+    background: #eceeee;
+    border: 1px solid #42464b;
+    border-radius: 6px;
+    height: 345px;
+    margin: 20px auto 0;
+    width: 298px;
+}
+
+.loginForm h1 {
+    border-bottom: 1px solid #a6abaf;
+    border-radius: 6px 6px 0 0;
+    color: #727678;
+    display: block;
+    padding: 14px;
+    margin: 0;
+    text-align: center;
+}
+
+.loginForm label {
+    margin: 10px 0 0 29px;
+}
+
+.loginForm input[type="checkbox"] {
+    margin: 10px 0 0 2px;
+}
+
+input[type="password"], input[type="text"] {
+    border: 1px solid #a1a3a3;
+    border-radius: 4px;
+    height: 39px;
+    margin: 10px 0 0 29px;
+    width: 240px;
+}
+input[type="password"]:focus, input[type="text"]:focus {
+    box-shadow: 0 0 4px 1px rgba(55, 166, 155, 0.3);
+    outline: 0;
+}
+
+input[type="submit"] {
+    width:240px;
+    height:35px;
+    display:block;
+    font-size:16px;
+    font-weight:bold;
+    color:#FFFFFF;
+    text-decoration:none;
+    text-transform:uppercase;
+    text-align:center;
+    padding-top:6px;
+    margin: 29px 0 0 29px;
+    position:relative;
+    cursor:pointer;
+    border: none;
+    background-color: #005aeb;
+    border-radius: 5px;
+}
+
+.errorMsg {
+    color: red;
+    margin: 10px 0 0 29px;
+}

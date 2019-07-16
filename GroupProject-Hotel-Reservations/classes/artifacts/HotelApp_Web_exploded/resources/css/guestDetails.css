@@ -1,0 +1,86 @@
+/* Aaorn Gezai id:- 109660
+This css file, styles the shoppingCart html file. provides 
+border and alignments and colors  */
+body{
+    /*background-color: rgb(129, 149, 168);*/
+    background-image: url("../images/bedroom-background2.jpg");
+    font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
+    background-size: cover;
+}
+/* the header part */
+#theHeader {
+    text-align: center;
+    font-size: 11pt;
+    color: white;
+    font-weight: bold;
+    /* font-family: Verdana Tahoma sans-serif; */
+    /* text-shadow: 3px 3px #999999; */
+    border: 3px solid rgb(193, 197, 181);
+    border-radius: 15px;
+    /* background: url(rbg.png); */
+    background-color: #005aeb;
+}
+/* the Entire form  */
+#theEntireForm {
+    /* background-image: url(background.png); */
+    margin-left: 12%;
+    margin-right: 12%;
+    border: 6px gray solid;
+    border-radius: 21px;
+    background-color: #ebecf0;
+}
+/* part of the form which has two columns */
+#content{
+    column-count :2;   
+}
+/* all block's border and alignments */
+.block_border{
+    padding: 12px;
+    margin: 10px;
+    border: 1px solid olive;    
+}
+
+/* the sytle of all input in the blocks */
+.block_border input{   
+    border: 1px solid #ccc;
+    border-radius: 4px;       
+}
+/* the fieldset style */
+#field{
+    width: 370px;
+}
+#moreInfo{
+text-align: center;
+}
+
+
+
+
+/*input[type="text"], input[type="email"], input[type="date"] {*/
+/*    border: 1px solid #a1a3a3;*/
+/*    border-radius: 4px;*/
+/*    height: 39px;*/
+/*    margin: 10px 0 0 29px;*/
+/*    width: 240px;*/
+/*}*/
+
+input[type="submit"] {
+    font-size: 15px;
+    background-color: #005aeb;
+    color: #FFFFFF;
+    padding: 14px 35px;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="reset"] {
+    font-size: 15px;
+    background-color: lightgray;
+    color: #FFFFFF;
+    padding: 14px 35px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
