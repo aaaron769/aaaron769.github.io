@@ -7,17 +7,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2eefc9-6ac5-411a-95c8-906566a25c85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lab13_LoginServlet/Lab13_LoginServlet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab13_LoginServlet/src/main/java/MyLoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab13_LoginServlet/src/main/resources/pageOne.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab13_LoginServlet/src/main/resources/welcomePage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab13_LoginServlet/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab13_LoginServlet/web/welcome.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstServlet_Demo/MyFirstServletDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstServlet_Demo/MyFirstServletDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstServlet_Demo/custom-tag-demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab 11 - Servlet intro_19_7 _ServletIntro/IntroServlet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 11 - Servlet intro_19_7 _ServletIntro/IntroServlet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/.idea/artifacts/Lab13_LoginServlet_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/Lab13_LoginServlet.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/out/artifacts/Lab13_LoginServlet_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/out/artifacts/Lab13_LoginServlet_war_exploded/WEB-INF/classes/MyLoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/out/artifacts/Lab13_LoginServlet_war_exploded/WEB-INF/classes/pageOne.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/out/artifacts/Lab13_LoginServlet_war_exploded/WEB-INF/classes/welcomePage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/out/artifacts/Lab13_LoginServlet_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/out/artifacts/Lab13_LoginServlet_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/out/artifacts/Lab13_LoginServlet_war_exploded/welcome.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/src/main/java/MyLoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/src/main/resources/pageOne.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/src/main/resources/welcomePage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/target/classes/MyLoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/target/classes/pageOne.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/target/classes/welcomePage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab13_LoginServlet/web/welcome.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/ProductController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,10 +47,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/controller/ProductController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
+            <state relative-caret-position="714">
               <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -65,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/product.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+            <state relative-caret-position="482">
+              <caret line="36" column="73" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -89,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/dao/copy/ProductDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+            <state relative-caret-position="189">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="e#723#724#0" expanded="true" />
                 <element signature="e#773#774#0" expanded="true" />
@@ -139,9 +154,9 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="897" />
-    <option name="y" value="132" />
-    <option name="width" value="1020" />
+    <option name="x" value="525" />
+    <option name="y" value="20" />
+    <option name="width" value="835" />
     <option name="height" value="785" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -170,6 +185,51 @@
               <item name="gson-crud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gson-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gson-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gson-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gson-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gson-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gson-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gson-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gson-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gson-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gson-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="copy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gson-crud" type="b2602c69:ProjectViewProjectNode" />
@@ -214,7 +274,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GroupProject-Hotel-Reservations" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GroupProject-Hotel-Reservations" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -392,18 +452,19 @@
       <workItem from="1562945270007" duration="6497000" />
       <workItem from="1562985797727" duration="365000" />
       <workItem from="1562988571585" duration="8819000" />
-      <workItem from="1563054199228" duration="686000" />
+      <workItem from="1563054199228" duration="2058000" />
+      <workItem from="1563153684514" duration="1318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16367000" />
+    <option name="totallyTimeSpent" value="19057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18053691" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18322147" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -443,7 +504,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
+        <state relative-caret-position="714">
           <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -465,13 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/product.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -486,21 +540,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/dao/copy/ProductDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-          <folding>
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/model/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/product.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="36" column="73" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/dao/copy/ProductDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
