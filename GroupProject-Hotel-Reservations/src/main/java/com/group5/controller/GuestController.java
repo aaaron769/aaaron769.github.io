@@ -1,7 +1,9 @@
 package com.group5.controller;
 
 
+import com.google.gson.Gson;
 import com.group5.dao.GuestDao;
+import com.group5.model.CheckinReturnModel;
 import com.group5.model.Guest;
 
 import javax.servlet.RequestDispatcher;
@@ -21,10 +23,9 @@ import java.util.List;
 
 
 public class GuestController extends HttpServlet {
-    //    we have a static constant here
-
     private GuestDao dao;
     private String contactUs ;
+    private Gson gson = new Gson();
 
     @Override
     public void init() throws ServletException {
@@ -41,10 +42,6 @@ public class GuestController extends HttpServlet {
      */
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        // personal details
-
-
-
     }
 
     /**
@@ -55,49 +52,16 @@ public class GuestController extends HttpServlet {
      */
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        String firstName =  request.getParameter("firstName");
-        String lastName = request.getParameter("lastName");
-        String emailAddress= request.getParameter("emailAddress");
-        String socialSecurity = request.getParameter("socialSecurity");
-        String dateOfBirth = request.getParameter("dateOfBirth");
-        String phoneNumber= request.getParameter("phoneNumber");
-        String addressLineOne = request.getParameter("addressLineOne");
-        String addressLineTwo = request.getParameter("addressLineTwo");
-        String city = request.getParameter("city");
-        String state = request.getParameter("state");
-        String zipCode = request.getParameter("zipCode");
-        String country = request.getParameter("country");
-        // booking duration
-        String checkInTime= request.getParameter("checkInTime");
-        String checkOutTime =request.getParameter("checkOutTime");
-        String typeOfBedRoom =request.getParameter("typeOfBedRoom");
-        String moreInfoTextArea =request.getParameter("moreInfoTextArea");
-        // payment Info
-        String paymentType=request.getParameter("ok");
-        String cardNumber =request.getParameter("cardNumber");
-        String expireDate =request.getParameter("expireDate");
-        String sCode =request.getParameter("sCode");
-        String paymentAgreement=request.getParameter("paymentAgreement");
-
-
-        // create object
-   Guest guest = new Guest( firstName,lastName, emailAddress,
-            socialSecurity, dateOfBirth,  phoneNumber,  addressLineOne,
-           addressLineTwo,  city, state, zipCode,  country,
-            checkInTime,  checkOutTime,  typeOfBedRoom, moreInfoTextArea,
-           paymentType,  cardNumber,  expireDate,  sCode,
-            paymentAgreement);
-   // adding object guest
-            dao.addGuest(guest);
-
-
-        request.setAttribute("aGuest",guest);
-        request.setAttribute("contactUs",contactUs);
-
-        //forward to guestConfirmation.jsp
-        request.getRequestDispatcher("/guestConfirmation.jsp").forward(request, response);
-
-
+         String jsonString = request.getParameter("guest");
+         Guest guest = gson.fromJson(jsonString,Guest.class);
+        // setAttribute to global getServletContext
+        request.getServletContext().setAttribute("aGuest",guest);
+        request.getServletContext().setAttribute("contactUs",contactUs);
+        // adding guest to dao
+        dao.addGuest(guest);
+        // return to js
+            PrintWriter out = response.getWriter();
+            out.print(gson.toJson(guest));
 
     }
 
