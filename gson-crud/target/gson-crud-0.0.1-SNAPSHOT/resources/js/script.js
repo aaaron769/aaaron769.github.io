@@ -5,7 +5,7 @@ $(function(){
 		var productName = $('#product_name').val();
 		var productPrice = $('#product_price').val();
 		var product = {name:productName, price:productPrice};
-		$.post('product',{product: JSON.stringify(product)}, processData, "json")
+		$.post('product',{prd: JSON.stringify(product)}, processData, "json")
 	}
 
 	function processData(data){

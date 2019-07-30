@@ -26,6 +26,8 @@
 					<td><c:out value="${product.id}" /></td>
 					<td><c:out value="${product.name}" /></td>
 					<td><c:out value="${product.price}" /></td>
+					//add here
+					// td will post here
 				</tr>
 			</c:forEach>
 		</tbody>
